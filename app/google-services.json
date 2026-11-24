@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237346885452",
+    "project_id": "dispensadoraguaiot",
+    "storage_bucket": "dispensadoraguaiot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237346885452:android:a04110f3ad7e7f3acd89e9",
+        "android_client_info": {
+          "package_name": "com.example.dispensadoraguaiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDKHeEVutWXdpsK-l176fRgNyZ_HZmyyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
